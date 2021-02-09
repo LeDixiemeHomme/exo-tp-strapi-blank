@@ -5,7 +5,7 @@ module.exports = ({ env }) => ({
       connector: 'bookshelf',
       settings: {
         client: 'postgres',
-        host: 'ec2-54-220-35-19.eu-west-1.compute.amazonaws.com',
+        host: 'ec2-54-220-35-19',
         port: '5432',
         database: 'dekbog319ffhgo',
         username: 'pdgxtqqbsoabni',
